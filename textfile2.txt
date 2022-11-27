@@ -1,0 +1,39 @@
+Compared to normalized scientific notation, one disadvantage of using
+SI prefixes and engineering notation is that significant figures are
+not always readily apparent when the smallest significant digit or
+digits are 0. For example, 500 microns (micrometers) and $500\times\;10^{-6}$
+meters cannot express the uncertainty distinctions between
+
+
+
+$5\times10^{-4}$ meters, $5.0\times10^{-4}$ meters, and
+$5.00\times10^{-4}$ meters.  This can be solved by changing the range
+of the coefficient in front of the power from the common 1  --  1000 to
+0.001 --  1.0.  In some cases this may be suitable; in others it may be
+impractical. In the previous example, 0.5 mm, 0.50 mm, or 0.500 mm
+would have been used to show uncertainty and significant figures. It
+is also common to state the precision explicitly, such as "47 kilo
+ohms $\pm$ 5\%.
+
+
+
+
+Another example: when the speed of light (exactly 299792458 meters/sec by the
+definition of the meter) is expressed as $3.00\times10^8$ meters/sec.
+or $3.00\times10^5$ kilometers/sec.  then it is clear that it is
+between 299500 km/sec and 300500 kilometers/sec, but when using $300\times10^6$
+meters/sec or $300\times10^3$ kilometers/sec, this is not the case.
+
+
+
+
+
+
+Engineering notation, like scientific notation generally, can use the
+E-notation, such that $3.0\times10^{-9}$ meters/sec can be written
+3.0E-9 or 3.0e-9.  The E (or e) should not be confused with the
+exponential e which holds a completely different significance.
+
+
+
+
